@@ -10,7 +10,6 @@ const Main_screen = () =>{
     document.body.style.backgroundColor = "#302E2E";
   return (
     <Fragment>
-
         <div className={classes.wrapper}>      
           <Images />
           <Items /> 
