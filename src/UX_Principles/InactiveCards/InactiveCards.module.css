@@ -1,0 +1,46 @@
+.arrow
+{
+    display: inline-block;
+    cursor: pointer;
+}
+
+
+.cards
+{
+    /* margin-bottom: 165px; */
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.background_card
+{
+    width: 640px;
+    height: 510px;
+    background: #F3F3F3;
+    filter: blur(1.5px);
+box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.5);
+border-radius: 20px;
+margin-top: 78px;
+display: inline-block;
+box-sizing: border-box; 
+padding: 50px 52px;
+}
+
+.background_card_title
+{
+    color: #757575;
+    font-family: "Roboto", "Arial", sans-serif;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.background_card_text
+{
+    font-family: Open Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+color: #7E7E7E;
+margin-top: 16px;
+line-height: 28px;
+}
