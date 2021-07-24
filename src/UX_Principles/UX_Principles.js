@@ -1,11 +1,6 @@
 import classes from './UX_Principles.module.css';
 import React,{Fragment} from 'react';
 import Header from './Header/Header';
-
-
-// import "./style.css"
-// import Footer from './Footer';
-// import Images from './Images';
 import InactiveCards from './InactiveCards/InactiveCards';
 import Section from './Section/Section';
 import ActiveCard from './ActiveCard/ActiveCardContent';

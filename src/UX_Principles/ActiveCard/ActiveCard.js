@@ -1,12 +1,11 @@
 import React, {Fragment} from 'react';
-import classes from "./ActiveCard.module.css"
 import ActiveCardContent from './ActiveCardContent';
 
-const ActiveCard = (props) =>
+const ActiveCard = () =>
 {
   return (
       <Fragment>
-        <ActiveCardContent id={"active_card"}/>
+        <ActiveCardContent/>
       </Fragment>
   );
 }

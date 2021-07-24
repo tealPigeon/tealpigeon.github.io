@@ -1,19 +1,19 @@
 .active_card
 {
     clear: both;
-z-index: 100;
-position: absolute;
-width: 790px;
-height: 632px;
-top: 333px;
-left:50%;
-transform:translate(-50%, 0);
-background: #FFFFFF;
-box-shadow: -1px 4px 8px 0px rgba(15, 26, 34, 0.349);
-border-radius: 20px;
-padding: 39px 39px 16px 52px;
-box-sizing: border-box; 
-margin-bottom: 100px;
+    z-index: 100;
+    position: absolute;
+    width: 790px;
+    height: 632px;
+    top: 333px;
+    left:50%;
+    transform:translate(-50%, 0);
+    background: #FFFFFF;
+    box-shadow: -1px 4px 8px 0px rgba(15, 26, 34, 0.349);
+    border-radius: 20px;
+    padding: 39px 39px 16px 52px;
+    box-sizing: border-box;
+    margin-bottom: 100px;
 }
 
 
@@ -30,16 +30,16 @@ margin-bottom: 100px;
 .active_card_text
 {
     font-family: Open Sans;
-font-style: normal;
-font-weight: normal;
-font-size: 16px;
-line-height: 28px;
-color: #343434;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 28px;
+    color: #343434;
 
-margin-top: 28px;
-line-height: 28px;
-margin-right: 0;
-margin-left: 0;
+    margin-top: 28px;
+    line-height: 28px;
+    margin-right: 0;
+    margin-left: 0;
 }
 
 .image_for_active_card
